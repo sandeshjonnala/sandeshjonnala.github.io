@@ -1,2 +1,2 @@
 # sandeshjonnala.github.io
-My Blog
+My Portfolio

@@ -10,6 +10,6 @@ My Portfolio
 
   My Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://sandeshjonnala.github.io/ target="_blank""><strong>➥ Live Demo</strong></a>
+  <a href="https://sandeshjonnala.github.io/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
